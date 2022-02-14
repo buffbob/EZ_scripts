@@ -4,6 +4,6 @@ Mostly just practice but pw and pwm are useful.
 
 <h2>The pwm program(password manager)</h2>
 
-<img src="ss1.png>
+<img src="ss1.png">
 
 
